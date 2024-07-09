@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justcovenant
 - 👀 I’m interested in The Blockchain, the Metaverse, the Cloud, DevOps and any backend/infrastructure related stuff
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m continuously learning Backend Development
 - 💞️ I’m looking to collaborate on any thing related to tech
 - 📫 How to reach me @just_covenant_
 - 😄 Pronouns: he/him
